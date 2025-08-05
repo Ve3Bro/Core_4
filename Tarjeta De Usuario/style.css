@@ -74,12 +74,13 @@ box-shadow: 2px 2px 5px;
 }
 .boton{
     width: 100px;
-    height: 40px;
+    height: 30px;
     text-align: center;
     position: relative;
-    bottom: 578px;
+    bottom: 568px;
     margin: 10px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
+    border-radius: 8px;
 }
 
